@@ -18,10 +18,6 @@ Bert on MLM and NSP tasks
 - Datasets
 - Transformers
 
-### Data Preparation
-
-The data preparation for the Burmese language dataset is already coded in both notebooks. Ensure that you have your Burmese dataset ready in a format suitable for BERT training. If you need to customize or adapt the data preparation steps, refer to the data preparation section within the notebooks for any adjustments.
-
 ### Steps to Reproduce
 
 1. **Notebook Execution**
