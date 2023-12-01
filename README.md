@@ -1,4 +1,4 @@
-# Burmese BERT Model with SentencePiece Encoding
+# Burmese BERT Models with SentencePiece Encoding
 
 Bert on MLM and NSP tasks
 
