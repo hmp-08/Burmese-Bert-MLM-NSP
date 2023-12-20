@@ -7,6 +7,8 @@ Bert on MLM and NSP tasks
 **1. bert_burmese_sentencepiece.ipynb**
    - This notebook demonstrates the process of data preparation, training, and testing the Burmese BERT model using SentencePiece encoding for both MLM (Masked Language Model) task.
 
+![](https://github.com/hmp-08/Burmese-Bert-MLM-NSP/blob/main/Screenshot%20from%202023-12-20%2011-28-26.png)
+
 **2. bert_burmese_for_nsp.ipynb**
    - This notebook focuses specifically on training the Burmese BERT model for the NSP (Next Sentence Prediction) task. It covers data preparation, model training, and testing related to NSP.
 
